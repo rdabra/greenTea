@@ -1,16 +1,15 @@
-# greentea README
+# GreenTea Theme
+Soft Color Themes for C/C++ in [VS Code](http://code.visualstudio.com)
 
-## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Install
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Open Visual Studio Code Market Place in your Visual Studio Code, and search GreenTea Theme. Hit install button, and after finishing install, go to ```Preferences > Color Theme > GreenTea Theme```.
 
-## For more information
+## Screenshots
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Dark GreenTea (based on Visual Studio Dark)
+![darkGreenTea](./pictures/darkGreenTea.png)
+
 
 **Enjoy!**

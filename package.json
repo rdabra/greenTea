@@ -1,21 +1,21 @@
 {
-  "name": "greentea",
-  "displayName": "GreenTea",
-  "description": "A soft dark color theme for C/C++ based on Visual Studio Dark",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.87.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "GreenTea Color Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/GreenTea Color Theme-color-theme.json"
-      }
-    ]
-  }
+   "name": "greentea",
+   "displayName": "GreenTea Theme",
+   "description": "Soft Color Themes for C/C++ in VS Code",
+   "version": "0.0.1",
+   "engines": {
+      "vscode": "^1.87.0"
+   },
+   "categories": [
+      "Themes"
+   ],
+   "contributes": {
+      "themes": [
+         {
+            "label": "Dark GreenTea",
+            "uiTheme": "vs-dark",
+            "path": "./themes/GreenTeaTheme-dark-theme.json"
+         }
+      ]
+   }
 }
