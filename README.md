@@ -10,7 +10,7 @@ Open Visual Studio Code Market Place in your Visual Studio Code, and search Gree
 
 ### Dark GreenTea (based on Visual Studio Dark)
 
-The strongly recommended font to use with this theme is [Monoid Reti](https://larsenwork.com/monoid/)
+The strongly recommended font to use with this theme is [Monoid Retina](https://larsenwork.com/monoid/)
 
 ![darkGreenTea](./pictures/darkGreenTea.png)
 
