@@ -14,4 +14,12 @@ The strongly recommended font to use with this theme is [Monoid Retina](https://
 
 ![darkGreenTea](./pictures/darkGreenTea.png)
 
+
+### Light GreenTea (based on Visual Studio Light)
+
+The recommended font to use with this theme is [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+
+![darkGreenTea](./pictures/lightGreenTea.png)
+
+
 **Enjoy!**

@@ -2,7 +2,7 @@
    "name": "greentea",
    "displayName": "GreenTea Theme",
    "description": "Soft Color Themes for C/C++ in VS Code",
-   "version": "0.0.2",
+   "version": "0.0.3",
    "publisher": "robertodias70",
    "engines": {
       "vscode": "^1.87.0"
@@ -24,6 +24,11 @@
             "label": "Dark GreenTea",
             "uiTheme": "vs-dark",
             "path": "./themes/GreenTeaTheme-dark-theme.json"
+         },
+         {
+            "label": "Light GreenTea",
+            "uiTheme": "vs",
+            "path": "./themes/GreenTeaTheme-light-theme.json"
          }
       ]
    },
