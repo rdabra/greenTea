@@ -15,7 +15,7 @@
    ],
    "icon": "pictures/greenTea.png",
    "galleryBanner": {
-      "color": "#cd9e5d",
+      "color": "#bb853a",
       "theme": "dark"
    },
    "contributes": {
