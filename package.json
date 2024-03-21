@@ -2,7 +2,7 @@
    "name": "greentea",
    "displayName": "GreenTea Theme",
    "description": "Soft Color Themes for C/C++ in VS Code",
-   "version": "0.1.0",
+   "version": "0.1.1",
    "publisher": "robertodias70",
    "engines": {
       "vscode": "^1.87.0"

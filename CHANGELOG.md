@@ -2,6 +2,10 @@
 
 All notable changes to the "GreenTea Theme" extension will be documented in this file.
 
+## **0.1.1** - March 21 2024
+
+- Dimming the line highlight border
+
 ## **0.1.0** - March 3 2024
 
 - Addition of the Light GreenTea Theme
